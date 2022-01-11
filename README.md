@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @paddy_._
 - 👀 I’m interested in learning new technologies. 
-- 🌱 I’m currently learning Blockchain.
-- 💞️ I’m looking to collaborate on Web Or Android Development
+- 🌱 I’m currently learning BigData.
+- 💞️ I’m looking to collaborate on BigData or Web Or Android Development
 - 📫 How to reach me ...
 
 <!---
